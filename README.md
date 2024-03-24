@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Gwibly
-- 👀 I’m interested in making games and other things
-- 🌱 I’m currently learning Dream Maker (BYOND tool for creating games)
-- 😄 Pronouns: call me how you want.
+- 👋 Hi, I’m @Gwibly.
+- 👀 I’m interested in making games and doing some other things.
+- 🌱 I’m currently learning Dream Maker (BYOND tool for creating games) and a bit of godot.
 - ⚡ Fun fact: Su-7BMK is my favourite plane.
 
 <!---
